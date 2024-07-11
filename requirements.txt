@@ -1,0 +1,8 @@
+arxiv
+langchain
+langchain-community
+faiss-cpu
+wikipedia
+beautifulsoup4
+langchainhub
+ollama
